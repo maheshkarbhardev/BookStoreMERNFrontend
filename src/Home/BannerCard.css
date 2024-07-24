@@ -1,0 +1,74 @@
+.banner .swiper {
+    width: 240px;
+    height: 320px;
+    
+  }
+  
+.banner .swiper-slide {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 18px;
+    font-size: 22px;
+    font-weight: bold;
+    color: #fff;
+  }
+  
+  .banner .swiper-slide:nth-child(1n) {
+    background-image: url('C:\Users\user\Desktop\Digital Flake\Book Store FullStack Project\frontend\src\assets\book-1.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+  }
+  
+  .banner .swiper-slide:nth-child(2n) {
+    background-image: url('C:\Users\user\Desktop\Digital Flake\Book Store FullStack Project\frontend\src\assets\book-2.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  .banner .swiper-slide:nth-child(3n) {
+    background-image: url('C:\Users\user\Desktop\Digital Flake\Book Store FullStack Project\frontend\src\assets\book-3.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  .banner .swiper-slide:nth-child(4n) {
+    background-image: url('C:\Users\user\Desktop\Digital Flake\Book Store FullStack Project\frontend\src\assets\book-4.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  .banner .swiper-slide:nth-child(5n) {
+    background-image: url('C:\Users\user\Desktop\Digital Flake\Book Store FullStack Project\frontend\src\assets\book-5.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  .banner .swiper-slide:nth-child(6n) {
+    background-image: url('C:\Users\user\Desktop\Digital Flake\Book Store FullStack Project\frontend\src\assets\book-6.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  .banner .swiper-slide:nth-child(7n) {
+    background-image: url('C:\Users\user\Desktop\Digital Flake\Book Store FullStack Project\frontend\src\assets\book-7.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  .banner .swiper-slide:nth-child(8n) {
+    background-image: url('C:\Users\user\Desktop\Digital Flake\Book Store FullStack Project\frontend\src\assets\book-8.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  
